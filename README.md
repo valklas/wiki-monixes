@@ -1,6 +1,6 @@
 # MONIXES WIKI
 
-Wiki for monixes, Check the [monixes repo](https://github.com/valklas/monixes.git).
+Wiki for monixes, start from [intro](intro.md), also check the [monixes repo](https://github.com/valklas/monixes.git).
 
 ## Wiki Architecture
 
