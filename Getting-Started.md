@@ -61,4 +61,4 @@ Check out the **flake.nix** example below:
 
 ## Next Step
 
-See how hostname is set, in the [Hostname Module Guide](system-modules/hostname.nix).
+See how hostname is set, in the [Hostname Module Guide](system-modules/hostname.md).
