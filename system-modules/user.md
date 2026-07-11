@@ -19,3 +19,7 @@ monixes.user = {
 ```
 
 Add the above code block in your **configuration.nix** file.
+
+## Next Step
+
+See how networkmanager is set, in the [Network Manager Guide](networking/networkmanager.md).
