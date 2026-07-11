@@ -1,4 +1,4 @@
-# System Module: Hostname
+# System Module: Network Manager
 
 Manages the core network connectivity engine under the `monixes.system.networking.networkmanager` namespace.
 
