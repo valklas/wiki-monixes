@@ -6,13 +6,13 @@ Automates administrative group assignments and home directory paths under the `m
 
 | Option | Type | Default | Description |
 | :--- | :--- | :--- | :--- |
-| `monixes.user.enable` | Boolean | `false` | Enables automated user provisioning. |
-| `monixes.user.name` | String | *Required* | The primary account username. |
+| `monixes.system.user.enable` | Boolean | `false` | Enables automated user provisioning. |
+| `monixes.system.user.name` | String | *Required* | The primary account username. |
 
 ## Usage Example
 
 ```nix
-monixes.user = {
+monixes.system.user = {
   enable = true;
   name = "someone";
 };
