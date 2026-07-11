@@ -6,13 +6,13 @@ Manages the host machine network identification under the `monixes.host` namespa
 
 | Option | Type | Default | Description |
 | :--- | :--- | :--- | :--- |
-| `monixes.host.enable` | Boolean | `false` | Enables machine hostname management. |
-| `monixes.host.name` | String | `"nixos"` | Sets the operating system hostname. |
+| `monixes.system.host.enable` | Boolean | `false` | Enables machine hostname management. |
+| `monixes.system.host.name` | String | `"nixos"` | Sets the operating system hostname. |
 
 ## Usage Example
 
 ```nix
-monixes.host = {
+monixes.system.host = {
   enable = true;
   name = "thinkpad";
 };
