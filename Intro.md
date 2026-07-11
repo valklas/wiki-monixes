@@ -8,7 +8,8 @@
 *   **System Modules**:
     *   [Host Config](system-modules/hostname.md) — Handle machine identification.
     *   [User Config](system-modules/user.md) — Automate system user setup.
-    *   [Network Manager Config](system-modules/networking/networkmanager.md) — Network Manager setup.
+    *   **Networking**:
+        *   [Network Manager Config](system-modules/networking/networkmanager.md) — Network Manager setup.
 *   **Home Manager Modules**: (Coming Soon).
 
 Source Code: [monixes Repository](https://github.com/valklas/monixes.git)
