@@ -2,6 +2,12 @@
 
 To use `monixes`, you need to declare it as a flake input and import its exposed modules inside your **flake.nix**. Once imported, you can configure system-level options directly in your **configuration.nix** and user-level options in your **home.nix**.
 
+> [!WARNING]
+> If this is your first time using Flakes on your machine, make sure you have enabled experimental features inside your **configuration.nix**:
+> ```nix
+> nix.settings.experimental-features = [ "nix-command" "flakes" ];
+> ```
+
 Check out the **flake.nix** example below:
 
 ```nix
