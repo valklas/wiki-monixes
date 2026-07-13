@@ -14,9 +14,10 @@ wiki-monixes/
     ├── hostname.md
     ├── networking
     │   └── networkmanager.md
+    ├── nix.md
     └── user.md
 
-3 directories, 7 files
+3 directories, 8 files
 ```
 
 ## License
