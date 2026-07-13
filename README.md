@@ -13,11 +13,12 @@ wiki-monixes/
 └── system-modules
     ├── hostname.md
     ├── networking
+    │   ├── firewall.md
     │   └── networkmanager.md
     ├── nix.md
     └── user.md
 
-3 directories, 8 files
+3 directories, 9 files
 ```
 
 ## License
