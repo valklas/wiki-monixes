@@ -10,6 +10,7 @@
     *   [User Config](system-modules/user.md) — Automate system user setup.
     *   **Networking**:
         *   [Network Manager Config](system-modules/networking/networkmanager.md) — Network Manager setup.
+        *   [Firewall Config](system-modules/networking/firewall.md) — Firewall setup.
     *   [Nix Config](system-modules/nix.md) — Automate weekly garbage collection, enable or disable installation of packages with proprietary licenses, enable flake by default.
 *   **Home Manager Modules**: (Coming Soon).
 
