@@ -13,8 +13,8 @@ Automates administrative group assignments and home directory paths under the `m
 
 ```nix
 monixes.system.user = {
-  enable = true;
-  name = "someone";
+    enable = true;
+    name = "someone";
 };
 ```
 

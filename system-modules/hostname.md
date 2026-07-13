@@ -13,8 +13,8 @@ Manages the host machine network identification under the `monixes.system.host` 
 
 ```nix
 monixes.system.host = {
-  enable = true;
-  name = "thinkpad";
+    enable = true;
+    name = "thinkpad";
 };
 ```
 

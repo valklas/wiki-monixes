@@ -12,7 +12,7 @@ Manages the core network connectivity engine under the `monixes.system.networkin
 
 ```nix
 monixes.system.networking = {
-  networkmanager.enable = true;
+    networkmanager.enable = true;
 };
 ```
 
