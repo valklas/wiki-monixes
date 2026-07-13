@@ -1,6 +1,6 @@
 # System Module: User Creation
 
-Automates administrative group assignments and home directory paths under the `monixes.user` namespace.
+Automates administrative group assignments and home directory paths under the `monixes.system.user` namespace.
 
 ## Options
 
