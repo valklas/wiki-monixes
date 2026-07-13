@@ -1,6 +1,6 @@
 # System Module: Hostname
 
-Manages the host machine network identification under the `monixes.host` namespace.
+Manages the host machine network identification under the `monixes.system.host` namespace.
 
 ## Options
 
