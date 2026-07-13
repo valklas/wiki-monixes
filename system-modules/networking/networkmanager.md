@@ -17,3 +17,7 @@ monixes.system.networking = {
 ```
 
 Add the above code block in your **configuration.nix** file.
+
+## Next Step:
+
+See see some extra nix modules and how to set them, in the [Nix Guide](../nix.nix).
