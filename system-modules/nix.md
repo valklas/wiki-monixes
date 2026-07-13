@@ -1,4 +1,4 @@
-# System Module: User Creation
+# System Module: Nix
 
 Optimizes the core Nix package manager engine, manages storage hygiene, and configures licensing terms under the `monixes.system.nix` namespace.
 
