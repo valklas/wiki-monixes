@@ -2,6 +2,17 @@
 
 Optimizes the core Nix package manager engine, manages storage hygiene, and configures licensing terms under the `monixes.system.nix` namespace.
 
+> [!WARNING]
+> By default, `monixes` automatically handles experimental `flakes` and `nix-command` provisioning for your system behind the scenes. 
+> 
+> However, if you explicitly opt out by setting `monixes.system.nix.enable = false;`, you **must** manually add the following:
+> 
+> ```nix
+> nix.settings.experimental-features = [ "nix-command" "flakes" ];
+> ```
+> 
+> in your **configuration.nix** to avoid build failures.
+
 ## Options
 
 | Option | Type | Default | Description |
@@ -13,8 +24,8 @@ Optimizes the core Nix package manager engine, manages storage hygiene, and conf
 
 ```nix
 monixes.system.nix = {
-  enable = true;
-  allowUnfree = false;
+    enable = true;
+    allowUnfree = false;
 };
 ```
 
