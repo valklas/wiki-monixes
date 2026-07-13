@@ -23,3 +23,7 @@ monixes.system.networking.firewall = {
 ```
 
 Add the above code block in your **configuration.nix** file.
+
+## Next Step:
+
+See some extra nix modules and how to set them, in the [Nix Module Guide](../nix.md).
