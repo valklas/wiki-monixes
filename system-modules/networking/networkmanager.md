@@ -20,4 +20,4 @@ Add the above code block in your **configuration.nix** file.
 
 ## Next Step:
 
-See see some extra nix modules and how to set them, in the [Nix Module Guide](../nix.md).
+See how to set firewall, in the [firewall Guide](firewall.md).
