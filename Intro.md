@@ -12,6 +12,13 @@
         *   [Network Manager Config](system-modules/networking/networkmanager.md) — Network Manager setup.
         *   [Firewall Config](system-modules/networking/firewall.md) — Firewall setup.
     *   [Nix Config](system-modules/nix.md) — Automate weekly garbage collection, enable or disable installation of packages with proprietary licenses, enable flake by default.
+    *   [Boot Config](system-modules/boot.md) — Configure the system bootloader.
+    *   **Hardware**:
+        *   [Graphics Config](system-modules/hardware/graphics.md) — Enable hardware graphics acceleration.
+        *   [Bluetooth Config](system-modules/hardware/bluetooth.md) — Enable Bluetooth support.
+        *   [Audio Config](system-modules/hardware/audio.md) — Configure modern PipeWire audio stack.
+    *   **Desktop**:
+        *   [Display Manager Config](system-modules/desktop/display-manager.md) — Configure greetd display manager.
 *   **Home Manager Modules**: (Coming Soon).
 
 Source Code: [monixes Repository](https://github.com/valklas/monixes.git)
