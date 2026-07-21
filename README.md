@@ -11,6 +11,13 @@ wiki-monixes/
 ├── LICENSE
 ├── README.md
 └── system-modules
+    ├── boot.md
+    ├── desktop
+    │   └── display-manager.md
+    ├── hardware
+    │   ├── audio.md
+    │   ├── bluetooth.md
+    │   └── graphics.md
     ├── hostname.md
     ├── networking
     │   ├── firewall.md
@@ -18,7 +25,7 @@ wiki-monixes/
     ├── nix.md
     └── user.md
 
-3 directories, 9 files
+5 directories, 14 files
 ```
 
 ## License
