@@ -30,3 +30,7 @@ monixes.system.nix = {
 ```
 
 Add the above code block in your **configuration.nix** file.
+
+## Next Step:
+
+See how system boot is set, in the [Boot Module Guide](boot.md).
