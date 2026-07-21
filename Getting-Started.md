@@ -2,6 +2,12 @@
 
 To use `monixes`, you need to declare it as a flake input and import its exposed modules inside your **flake.nix**. Once imported, you can configure system-level options directly in your **configuration.nix** and user-level options in your **home.nix**.
 
+> [!NOTE]
+> **Branch Configurations & Stability:**
+> * The `main` branch is stable and all the development is done on the `dev` branch.
+> * If you want to test the `monixes` dev branch, add `https://github.com/valklas/monixes/dev` (or `github:valklas/monixes/dev`) as the input URL in the flake.
+> * If you want to use the main branch of `monixes`, refer to the stable wiki at [https://github.com/valklas/wiki-monixes](https://github.com/valklas/wiki-monixes). For the dev branch, refer to the dev wiki branch at [https://github.com/valklas/wiki-monixes/tree/dev](https://github.com/valklas/wiki-monixes/tree/dev).
+
 Check out the **flake.nix** example below:
 
 ```nix
