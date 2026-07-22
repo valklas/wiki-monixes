@@ -6,12 +6,12 @@ Manages the system bootloader configuration under the `monixes.system.boot` name
 
 | Option | Type | Default | Description |
 | :--- | :--- | :--- | :--- |
-| `monixes.system.boot.enable` | Boolean | `true` | Enable Limine bootloader configuration. |
+| `monixes.system.boot.enable.limine` | Boolean | `true` | Enable Limine bootloader configuration. |
 
 ## Usage Example
 
 ```nix
-monixes.system.boot = {
+monixes.system.boot.limine = {
     enable = true;
 };
 ```
