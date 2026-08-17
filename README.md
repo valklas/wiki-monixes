@@ -6,10 +6,13 @@ Wiki for monixes, start from [intro](Intro.md), also check the [monixes repo](ht
 
 ```
 wiki-monixes/
+├── AGENTS.md
 ├── Getting-Started.md
 ├── Intro.md
 ├── LICENSE
 ├── README.md
+├── home-modules
+│   └── theme.md
 └── system-modules
     ├── boot.md
     ├── desktop
@@ -23,9 +26,10 @@ wiki-monixes/
     │   ├── firewall.md
     │   └── networkmanager.md
     ├── nix.md
+    ├── theme.md
     └── user.md
 
-5 directories, 14 files
+6 directories, 17 files
 ```
 
 ## License

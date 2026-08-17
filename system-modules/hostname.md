@@ -7,7 +7,7 @@ Manages the host machine network identification under the `monixes.system.host` 
 | Option | Type | Default | Description |
 | :--- | :--- | :--- | :--- |
 | `monixes.system.host.enable` | Boolean | `false` | Enables machine hostname management. |
-| `monixes.system.host.name` | String | `"nixos"` | Sets the operating system hostname. |
+| `monixes.system.host.name` | String | `"monixes"` | Sets the operating system hostname. |
 
 ## Usage Example
 
