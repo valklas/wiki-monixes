@@ -18,8 +18,8 @@ monixes.system.host = {
 };
 ```
 
-Add the above code block in your **configuration.nix** file.
+Add the above code block to `configuration.nix`.
 
-## Next Step
+## Navigation
 
-See how user is set, in the [User Module Guide](user.md).
+[← System modules](README.md) · [User →](user.md)

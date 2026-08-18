@@ -18,6 +18,6 @@ monixes.system.networking.networkmanager = {
 
 Add the above code block in your **configuration.nix** file.
 
-## Next Step:
+## Navigation
 
-See how to set firewall, in the [firewall Guide](firewall.md).
+[← Networking modules](README.md) · [Firewall →](firewall.md)

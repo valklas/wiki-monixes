@@ -31,6 +31,6 @@ monixes.system.nix = {
 
 Add the above code block in your **configuration.nix** file.
 
-## Next Step:
+## Navigation
 
-See how system boot is set, in the [Boot Module Guide](boot.md).
+[← User](user.md) · [System modules](README.md) · [Boot →](boot/README.md)

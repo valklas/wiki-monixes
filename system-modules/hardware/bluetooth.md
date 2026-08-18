@@ -16,8 +16,8 @@ monixes.system.hardware.bluetooth = {
 };
 ```
 
-Add the above code block in your **configuration.nix** file.
+Add the above code block to `configuration.nix`.
 
-## Next Step:
+## Navigation
 
-See how to set audio options, in the [Audio Module Guide](audio.md).
+[← Graphics](graphics.md) · [Hardware modules](README.md) · [Audio →](audio.md)

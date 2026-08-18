@@ -1,10 +1,12 @@
 # System Module: Theme
 
-Configures the system-wide Catppuccin theme through the unified
-`monixes.system.theme` interface. The Monixes flake imports the Catppuccin
-NixOS module automatically. When enabled, Catppuccin's `autoEnable` behavior
-is also enabled so supported integrations can adopt the selected theme
-automatically.
+Configures the NixOS-wide Catppuccin theme through `monixes.system.theme`.
+This is a system option set and is separate from the Home Manager
+[`monixes.home.theme`](../home-modules/theme.md) option set.
+
+The Monixes flake imports the Catppuccin NixOS module automatically. When
+enabled, the wrapper enables Catppuccin and its supported automatic
+integrations.
 
 ## Options
 
@@ -26,4 +28,6 @@ monixes.system.theme = {
 
 Set these options in `configuration.nix`.
 
-For user-session theming, see the [Home Manager Theme Guide](../home-modules/theme.md).
+## Navigation
+
+[← Boot](boot/README.md) · [System modules](README.md) · [Home Theme →](../home-modules/theme.md)

@@ -18,8 +18,8 @@ monixes.system.user = {
 };
 ```
 
-Add the above code block in your **configuration.nix** file.
+Add the above code block to `configuration.nix`.
 
-## Next Step
+## Navigation
 
-See how networkmanager is set, in the [Network Manager Guide](networking/networkmanager.md).
+[← Hostname](hostname.md) · [System modules](README.md) · [Nix →](nix.md)

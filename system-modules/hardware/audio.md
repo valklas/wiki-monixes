@@ -18,8 +18,8 @@ monixes.system.hardware.audio = {
 };
 ```
 
-Add the above code block in your **configuration.nix** file.
+Add the above code block to `configuration.nix`.
 
-## Next Step:
+## Navigation
 
-See how to set display-manager options, in the [Display Manager Guide](../desktop/display-manager.md).
+[← Bluetooth](bluetooth.md) · [Hardware modules](README.md) · [Display Manager →](../desktop/DM/README.md)

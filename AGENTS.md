@@ -32,6 +32,13 @@ During implementation:
 - Prefer the smallest change that satisfies the request.
 - Keep option names, defaults, examples, and links consistent with the source
   modules.
+- Mirror the source module tree in the wiki: preserve directory names and
+  module basenames, convert `.nix` module files to `.md`, and represent
+  `default.nix` entry points with `README.md` pages. For example,
+  `modules/nixos/desktop/DM/greetd-tuigreet.nix` maps to
+  `system-modules/desktop/DM/greetd-tuigreet.md`.
+- Keep one documentation page per independently configurable source module;
+  use directory `README.md` files for indexes and composition entry points.
 - Whenever a page or directory is added or removed, update the README's
   documentation architecture and file count in the same change.
 - Do not document options that are not implemented in the Monixes source.

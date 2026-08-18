@@ -15,15 +15,15 @@ Secures the system against unauthorized network traffic by wrapping NixOS infras
 
 ```nix
 monixes.system.networking.firewall = {
-	enable = true;
-	allowSSH = true;
-	allowedTCPPorts = [ 100 200 ];
-	allowedUDPPorts = [ 100 200 ];
+    enable = true;
+    allowSSH = true;
+    allowedTCPPorts = [ 100 200 ];
+    allowedUDPPorts = [ 100 200 ];
 };
 ```
 
-Add the above code block in your **configuration.nix** file.
+Add the above code block to `configuration.nix`.
 
-## Next Step:
+## Navigation
 
-See some extra nix modules and how to set them, in the [Nix Module Guide](../nix.md).
+[← NetworkManager](networkmanager.md) · [Networking modules](README.md) · [Nix →](../nix.md)

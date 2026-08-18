@@ -16,8 +16,8 @@ monixes.system.hardware.graphics = {
 };
 ```
 
-Add the above code block in your **configuration.nix** file.
+Add the above code block to `configuration.nix`.
 
-## Next Step:
+## Navigation
 
-See how to set bluetooth options, in the [Bluetooth Module Guide](bluetooth.md).
+[← Hardware modules](README.md) · [Bluetooth](bluetooth.md) · [Audio →](audio.md)

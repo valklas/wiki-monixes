@@ -1,8 +1,7 @@
-# System Module: Display Manager
+# Desktop Module: greetd-tuigreet
 
-Manages the greetd-tuigreet display manager under the
-`monixes.system.desktop.DM` namespace. The default display-manager selection is
-`none`, so greetd is not enabled unless selected.
+Configures greetd with the tuigreet interface. The module is selected through
+`monixes.system.desktop.DM`.
 
 ## Options
 
@@ -10,6 +9,9 @@ Manages the greetd-tuigreet display manager under the
 | :--- | :--- | :--- | :--- |
 | `monixes.system.desktop.DM.displayManager` | Enum: `none`, `greetd-tuigreet` | `"none"` | Select the display manager. |
 | `monixes.system.desktop.DM.environment` | String | `"bash"` | Startup command passed to tuigreet, such as `start-hyprland`. |
+
+The `displayManager` option defaults to `none`, so greetd is not enabled until
+`greetd-tuigreet` is selected.
 
 ## Usage Example
 
@@ -20,4 +22,8 @@ monixes.system.desktop.DM = {
 };
 ```
 
-Add the above code block in your **configuration.nix** file.
+Add the above code block to `configuration.nix`.
+
+## Navigation
+
+[← Display Manager modules](README.md) · [Desktop modules](../README.md) · [System modules →](../../README.md)

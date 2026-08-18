@@ -1,10 +1,12 @@
 # Home Manager Module: Theme
 
-Configures the user-session Catppuccin theme through
-`monixes.home.theme`. Import `monixes.homeManagerModules.default` inside the
-relevant `home-manager.users.<name>` module before using these options.
-When enabled, Catppuccin's `autoEnable` behavior is also enabled for supported
-user-session integrations.
+Configures the user-session Catppuccin theme through `monixes.home.theme`.
+This is a Home Manager option set and is separate from the NixOS-wide
+[`monixes.system.theme`](../system-modules/theme.md) option set.
+
+Import `monixes.homeManagerModules.default` inside the relevant
+`home-manager.users.<name>` module before using these options. When enabled,
+the wrapper enables Catppuccin and its supported automatic integrations.
 
 ## Options
 
@@ -26,4 +28,6 @@ monixes.home.theme = {
 
 Set these options in the user's `home.nix`.
 
-For NixOS-wide theming, see the [System Theme Guide](../system-modules/theme.md).
+## Navigation
+
+[← Home Manager modules](README.md) · [Home](../Intro.md) · [System Theme →](../system-modules/theme.md)
