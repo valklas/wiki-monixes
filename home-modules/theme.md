@@ -30,4 +30,4 @@ Set these options in the user's `home.nix`.
 
 ## Navigation
 
-[← Home Manager Modules](README.md) · [Home](../Intro.md) · [System Theme →](../system-modules/theme.md)
+[← Home Manager Modules](README.md) · [Home](../Intro.md) · **COMING SOON**
