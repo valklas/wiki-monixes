@@ -26,4 +26,4 @@ Add the above code block to `configuration.nix`.
 
 ## Navigation
 
-[← Display Manager modules](README.md) · [Desktop modules](../README.md) · [Theme →](../../theme.md)
+[← Display Manager](README.md) · [Home](../../../Intro.md) · [Theme →](../../theme.md)

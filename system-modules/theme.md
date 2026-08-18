@@ -30,4 +30,4 @@ Set these options in `configuration.nix`.
 
 ## Navigation
 
-[← greetd-tuigreet](desktop/DM/greetd-tuigreet.md) · [System modules](README.md) · [Home Theme →](../home-modules/theme.md)
+[← greetd-tuigreet](desktop/DM/greetd-tuigreet.md) · [Home](../Intro.md) · [Home Theme →](../home-modules/theme.md)

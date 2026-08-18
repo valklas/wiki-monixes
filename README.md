@@ -3,7 +3,7 @@
 Documentation for [Monixes](https://github.com/valklas/monixes), a lightweight
 configuration wrapper for NixOS and Home Manager.
 
-Start with the [introduction](Intro.md), then follow [Getting Started](Getting-Started.md).
+Start with the [introduction](Intro.md).
 
 ## Wiki Architecture
 

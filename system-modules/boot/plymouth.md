@@ -20,4 +20,4 @@ automatically adding `splash` to the kernel parameters.
 
 ## Navigation
 
-[← Limine](limine.md) · [Boot modules](README.md) · [Hardware →](../hardware/README.md)
+[← Limine](limine.md) · [Home](../../Intro.md) · [Hardware →](../hardware/README.md)

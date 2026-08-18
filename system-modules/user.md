@@ -22,4 +22,4 @@ Add the above code block to `configuration.nix`.
 
 ## Navigation
 
-[← Hostname](hostname.md) · [System modules](README.md) · [Nix →](nix.md)
+[← Hostname](hostname.md) · [Home](../Intro.md) · [Nix →](nix.md)

@@ -2,7 +2,7 @@
 
 Display-manager modules use the `monixes.system.desktop.DM` namespace.
 
-## Available modules
+## Wiki Navigation
 
 - [greetd-tuigreet](greetd-tuigreet.md) — Configure the greetd display manager with tuigreet.
 
@@ -13,4 +13,4 @@ enable the implementation documented on the [greetd-tuigreet page](greetd-tuigre
 
 ## Navigation
 
-[← Desktop modules](../README.md) · [Display Manager modules](README.md) · [greetd-tuigreet →](greetd-tuigreet.md)
+[← Desktop](../README.md) · [Home](../../../Intro.md) · [greetd-tuigreet →](greetd-tuigreet.md)

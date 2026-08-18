@@ -2,10 +2,11 @@
 
 Desktop modules use the `monixes.system.desktop.*` namespace.
 
-## Available modules
+## Wiki Navigation
 
-- [Display Manager modules](DM/README.md) — Configure greetd-tuigreet.
+- [Display Manager Modules](DM/README.md)
+  - [greetd-tuigreet](DM/greetd-tuigreet.md) — Configure greetd-tuigreet.
 
 ## Navigation
 
-[← Hardware modules](../hardware/README.md) · [Desktop modules](README.md) · [Display Manager →](DM/README.md)
+[← Hardware](../hardware/README.md) · [Home](../../Intro.md) · [Display Manager →](DM/README.md)

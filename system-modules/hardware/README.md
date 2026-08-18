@@ -2,7 +2,7 @@
 
 Hardware modules use the `monixes.system.hardware.*` namespace.
 
-## Available modules
+## Wiki Navigation
 
 - [Graphics](graphics.md) — Enable hardware graphics acceleration.
 - [Bluetooth](bluetooth.md) — Enable Bluetooth support.
@@ -10,4 +10,4 @@ Hardware modules use the `monixes.system.hardware.*` namespace.
 
 ## Navigation
 
-[← System modules](../README.md) · [Hardware modules](README.md) · [Graphics →](graphics.md)
+[← System Modules](../README.md) · [Home](../../Intro.md) · [Graphics →](graphics.md)

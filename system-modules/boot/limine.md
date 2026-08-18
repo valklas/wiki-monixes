@@ -23,4 +23,4 @@ Add this to `configuration.nix`.
 
 ## Navigation
 
-[← Kernel parameters](kernel-params.md) · [Boot modules](README.md) · [Plymouth →](plymouth.md)
+[← Kernel Parameters](kernel-params.md) · [Home](../../Intro.md) · [Plymouth →](plymouth.md)

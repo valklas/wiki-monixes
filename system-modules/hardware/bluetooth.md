@@ -20,4 +20,4 @@ Add the above code block to `configuration.nix`.
 
 ## Navigation
 
-[← Graphics](graphics.md) · [Hardware modules](README.md) · [Audio →](audio.md)
+[← Graphics](graphics.md) · [Home](../../Intro.md) · [Audio →](audio.md)

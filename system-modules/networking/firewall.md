@@ -26,4 +26,4 @@ Add the above code block to `configuration.nix`.
 
 ## Navigation
 
-[← NetworkManager](networkmanager.md) · [Networking modules](README.md) · [Nix →](../nix.md)
+[← NetworkManager](networkmanager.md) · [Home](../../Intro.md) · [Nix →](../nix.md)

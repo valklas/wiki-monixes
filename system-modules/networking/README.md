@@ -2,11 +2,11 @@
 
 Networking modules use the `monixes.system.networking.*` namespace.
 
-## Available modules
+## Wiki Navigation
 
 - [NetworkManager](networkmanager.md) — Enable NetworkManager.
 - [Firewall](firewall.md) — Enable the firewall and open selected ports.
 
 ## Navigation
 
-[← System modules](../README.md) · [Networking modules](README.md) · [NetworkManager →](networkmanager.md)
+[← System Modules](../README.md) · [Home](../../Intro.md) · [NetworkManager →](networkmanager.md)

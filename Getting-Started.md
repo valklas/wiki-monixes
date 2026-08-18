@@ -63,4 +63,4 @@ Home Manager options in `home.nix`.
 
 ## Navigation
 
-[← Introduction](Intro.md) · [Home](Intro.md) · [System Modules →](system-modules/README.md)
+[← Intro](Intro.md) · [Home](Intro.md) · [System Modules →](system-modules/README.md)

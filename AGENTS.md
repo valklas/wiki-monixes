@@ -40,9 +40,11 @@ During implementation:
 - Keep one documentation page per independently configurable source module;
   use directory `README.md` files for indexes and composition entry points.
 - Do not add separate `Next Step` sections. End module and index pages with a
-  `Navigation` section using the consistent format
-  `[← Previous] · [Up] · [Next →]`, ordered according to the source-aligned
-  module structure.
+  `Navigation` section using the exact format
+  `[← File Name](previous-file.md) · [Home](path/to/Intro.md) · [File Name →](next-file.md)`,
+  ordered according to the source-aligned module structure.
+- Structure index pages like `Intro.md`: use a `Wiki Navigation` section,
+  grouped headings where useful, and nested bullet links for submodules.
 - Whenever a page or directory is added or removed, update the README's
   documentation architecture and file count in the same change.
 - Do not document options that are not implemented in the Monixes source.

@@ -33,4 +33,4 @@ Add the above code block in your **configuration.nix** file.
 
 ## Navigation
 
-[← User](user.md) · [System modules](README.md) · [Boot →](boot/README.md)
+[← User](user.md) · [Home](../Intro.md) · [Boot →](boot/README.md)
