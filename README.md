@@ -5,6 +5,12 @@ configuration wrapper for NixOS and Home Manager.
 
 Start with the [introduction](Intro.md).
 
+> [!NOTE]
+> This wiki is up to date through Monixes commit
+> [`106d4f6`](https://github.com/valklas/monixes/commit/106d4f662a397596fe7adfb1055e522034b6bed0),
+> `Configure Catppuccin auto-enable`. Changes introduced after this commit
+> may not be documented yet; pages for subsequent commits will be added soon.
+
 ## Wiki Architecture
 
 ```
