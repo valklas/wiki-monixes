@@ -5,12 +5,6 @@ configuration wrapper for NixOS and Home Manager.
 
 Start with the [introduction](Intro.md), then follow [Getting Started](Getting-Started.md).
 
-## Documentation
-
-- [System Modules](system-modules/README.md)
-- [Home Manager Modules](home-modules/README.md)
-- [Source repository](https://github.com/valklas/monixes)
-
 ## Wiki Architecture
 
 ```
