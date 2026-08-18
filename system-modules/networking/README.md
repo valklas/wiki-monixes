@@ -9,4 +9,4 @@ Networking modules use the `monixes.system.networking.*` namespace.
 
 ## Navigation
 
-[← System modules](../README.md) · [NetworkManager](networkmanager.md) · [Firewall →](firewall.md)
+[← System modules](../README.md) · [Networking modules](README.md) · [NetworkManager →](networkmanager.md)

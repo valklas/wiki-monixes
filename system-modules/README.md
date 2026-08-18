@@ -28,4 +28,4 @@ options.
 
 ## Navigation
 
-[← Home](../Intro.md) · [Getting Started](../Getting-Started.md) · [Home Manager modules →](../home-modules/README.md)
+[← Home](../Intro.md) · [System modules](README.md) · [Hostname →](hostname.md)

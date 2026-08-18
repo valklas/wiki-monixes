@@ -10,4 +10,4 @@ Hardware modules use the `monixes.system.hardware.*` namespace.
 
 ## Navigation
 
-[← System modules](../README.md) · [Graphics](graphics.md) · [Bluetooth](bluetooth.md) · [Audio →](audio.md)
+[← System modules](../README.md) · [Hardware modules](README.md) · [Graphics →](graphics.md)

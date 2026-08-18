@@ -20,4 +20,4 @@ Add the above code block to `configuration.nix`.
 
 ## Navigation
 
-[← Hardware modules](README.md) · [Bluetooth](bluetooth.md) · [Audio →](audio.md)
+[← Hardware modules](README.md) · [Hardware modules](README.md) · [Bluetooth →](bluetooth.md)

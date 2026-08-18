@@ -22,4 +22,4 @@ Add the above code block to `configuration.nix`.
 
 ## Navigation
 
-[← System modules](README.md) · [User →](user.md)
+[← System modules](README.md) · [System modules](README.md) · [User →](user.md)

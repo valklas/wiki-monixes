@@ -8,4 +8,4 @@ Desktop modules use the `monixes.system.desktop.*` namespace.
 
 ## Navigation
 
-[← System modules](../README.md) · [Display Manager modules](DM/README.md)
+[← Hardware modules](../hardware/README.md) · [Desktop modules](README.md) · [Display Manager →](DM/README.md)

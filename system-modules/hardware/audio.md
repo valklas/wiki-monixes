@@ -22,4 +22,4 @@ Add the above code block to `configuration.nix`.
 
 ## Navigation
 
-[← Bluetooth](bluetooth.md) · [Hardware modules](README.md) · [Display Manager →](../desktop/DM/README.md)
+[← Bluetooth](bluetooth.md) · [Hardware modules](README.md) · [Desktop →](../desktop/README.md)

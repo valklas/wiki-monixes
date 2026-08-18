@@ -13,4 +13,4 @@ enable the implementation documented on the [greetd-tuigreet page](greetd-tuigre
 
 ## Navigation
 
-[← Desktop modules](../README.md) · [greetd-tuigreet →](greetd-tuigreet.md)
+[← Desktop modules](../README.md) · [Display Manager modules](README.md) · [greetd-tuigreet →](greetd-tuigreet.md)

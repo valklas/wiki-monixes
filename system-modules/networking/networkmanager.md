@@ -20,4 +20,4 @@ Add the above code block in your **configuration.nix** file.
 
 ## Navigation
 
-[← Networking modules](README.md) · [Firewall →](firewall.md)
+[← Networking modules](README.md) · [Networking modules](README.md) · [Firewall →](firewall.md)

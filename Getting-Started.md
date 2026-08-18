@@ -61,12 +61,6 @@ Home Manager options in `home.nix`.
 }
 ```
 
-## Next steps
-
-- Configure the machine [hostname](system-modules/hostname.md).
-- Browse the [System Modules](system-modules/README.md).
-- Browse the [Home Manager Modules](home-modules/README.md).
-
 ## Navigation
 
-[← Introduction](Intro.md) · [System Modules →](system-modules/README.md)
+[← Introduction](Intro.md) · [Home](Intro.md) · [System Modules →](system-modules/README.md)

@@ -39,6 +39,10 @@ During implementation:
   `system-modules/desktop/DM/greetd-tuigreet.md`.
 - Keep one documentation page per independently configurable source module;
   use directory `README.md` files for indexes and composition entry points.
+- Do not add separate `Next Step` sections. End module and index pages with a
+  `Navigation` section using the consistent format
+  `[← Previous] · [Up] · [Next →]`, ordered according to the source-aligned
+  module structure.
 - Whenever a page or directory is added or removed, update the README's
   documentation architecture and file count in the same change.
 - Do not document options that are not implemented in the Monixes source.

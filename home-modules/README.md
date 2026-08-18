@@ -12,4 +12,4 @@ More Home Manager modules can be added here as the source project grows.
 
 ## Navigation
 
-[← System modules](../system-modules/README.md) · [Home](../Intro.md) · [Getting Started →](../Getting-Started.md)
+[← System modules](../system-modules/README.md) · [Home Manager modules](README.md) · [Theme →](theme.md)

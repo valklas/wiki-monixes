@@ -21,4 +21,4 @@ Add this to `configuration.nix`.
 
 ## Navigation
 
-[← Boot modules](README.md) · [Limine →](limine.md)
+[← Boot modules](README.md) · [Boot modules](README.md) · [Limine →](limine.md)

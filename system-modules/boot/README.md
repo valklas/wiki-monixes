@@ -16,4 +16,4 @@ those defaults and duplicate values are removed.
 
 ## Navigation
 
-[← System modules](../README.md) · [Kernel parameters](kernel-params.md) · [Limine](limine.md) · [Plymouth →](plymouth.md)
+[← Nix](../nix.md) · [Boot modules](README.md) · [Kernel parameters →](kernel-params.md)
