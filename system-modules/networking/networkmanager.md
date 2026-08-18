@@ -11,8 +11,8 @@ Manages the core network connectivity engine under the `monixes.system.networkin
 ## Usage Example
 
 ```nix
-monixes.system.networking = {
-    networkmanager.enable = true;
+monixes.system.networking.networkmanager = {
+    enable = true;
 };
 ```
 
