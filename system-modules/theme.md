@@ -2,7 +2,9 @@
 
 Configures the system-wide Catppuccin theme through the unified
 `monixes.system.theme` interface. The Monixes flake imports the Catppuccin
-NixOS module automatically.
+NixOS module automatically. When enabled, Catppuccin's `autoEnable` behavior
+is also enabled so supported integrations can adopt the selected theme
+automatically.
 
 ## Options
 

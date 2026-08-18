@@ -3,6 +3,8 @@
 Configures the user-session Catppuccin theme through
 `monixes.home.theme`. Import `monixes.homeManagerModules.default` inside the
 relevant `home-manager.users.<name>` module before using these options.
+When enabled, Catppuccin's `autoEnable` behavior is also enabled for supported
+user-session integrations.
 
 ## Options
 

@@ -20,6 +20,7 @@
         *   [Audio Config](system-modules/hardware/audio.md) — Configure modern PipeWire audio stack.
     *   **Desktop**:
         *   [Display Manager Config](system-modules/desktop/display-manager.md) — Configure greetd-tuigreet.
-*   **[Home Manager Modules](home-modules/theme.md)** — Configure the user Catppuccin theme.
+*   **Home Manager Modules**:
+    *   [Theme Config](home-modules/theme.md) — Configure the user Catppuccin theme.
 
 Source Code: [monixes Repository](https://github.com/valklas/monixes.git)

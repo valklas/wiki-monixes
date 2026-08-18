@@ -10,7 +10,11 @@ kernel parameters under `monixes.system.boot`.
 | `monixes.system.boot.limine.enable` | Boolean | `true` | Enable the Limine bootloader. |
 | `monixes.system.boot.canTouchEfiVariables` | Boolean | `true` | Allow NixOS to modify EFI variables. |
 | `monixes.system.boot.plymouth.enable` | Boolean | `true` | Enable the Plymouth graphical boot splash. |
-| `monixes.system.boot.kernelParams` | List of strings | `[ "quiet" "splash" ]` | Additional kernel parameters appended to the system configuration. |
+| `monixes.system.boot.kernelParams` | List of strings | `[ ]` | Additional kernel parameters to pass at boot. |
+
+Monixes always adds `quiet`. It also adds `splash` while
+`monixes.system.boot.plymouth.enable` is enabled. Values from `kernelParams`
+are merged with those defaults and duplicate values are removed.
 
 ## Usage Example
 
@@ -19,7 +23,7 @@ monixes.system.boot = {
     limine.enable = true;
     canTouchEfiVariables = true;
     plymouth.enable = true;
-    kernelParams = [ "quiet" "splash" ];
+    kernelParams = [ "kvm-intel" "tun" ];
 };
 ```
 
