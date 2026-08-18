@@ -10,4 +10,4 @@ Monixes Home Manager modules use the `monixes.home.*` namespace. Import
 
 ## Navigation
 
-[← System Modules](../system-modules/README.md) · [Home](../Intro.md) · [Theme →](theme.md)
+[← System Theme](../system-modules/theme.md) · [Home](../Intro.md) · [Theme →](theme.md)
